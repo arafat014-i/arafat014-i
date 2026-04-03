@@ -1,7 +1,7 @@
 # Hi 👋, I'm Arafat Islam
 
 🎓 Electronics & Telecommunication Engineering Student  
-💻 Passionate about C, Python,AI,ML & Problem Solving  
+💻 Passionate about C, Python, AI, ML & Problem Solving  
 🚀 Currently learning Data Structures & Algorithms  
 
 ---
