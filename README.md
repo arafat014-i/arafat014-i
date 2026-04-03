@@ -24,9 +24,7 @@
 ---
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=arafat014-i&show_icons=true&theme=tokyonight)
-
-![Streak](https://streak-stats.demolab.com?user=arafat014-i&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arafat014-i&layout=compact)
 ---
 
 ## 🔗 Connect with me
