@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi 👋, I'm Arafat Islam
 
-<!--
-**arafat014-i/arafat014-i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Electronics & Telecommunication Engineering Student  
+💻 Passionate about C, Python,AI,ML & Problem Solving  
+🚀 Currently learning Data Structures & Algorithms  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- C Programming
+- Python
+- Data Structures & Algorithms
+- Basic GUI (Tkinter)
+
+---
+
+## 📌 Projects
+- 🧮 Rent Calculator (Python)
+- 🎮 Rock Paper Scissors Game
+- ❌⭕ Tic Tac Toe (Tkinter)
+- ⏰ Digital Clock
+- 📝 Text Editor (Tkinter)
+
+---
+
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=arafat014-i&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔗 Connect with me
+- Email: islamarafat377@gmail.com
+- LinkedIn: https://www.linkedin.com/in/arafat-islam-55334432b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
