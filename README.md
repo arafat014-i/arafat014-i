@@ -24,7 +24,7 @@
 ---
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=arafat014-i&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arafat014-i&show_icons=true&theme=tokyonight&hide_border=true)
 
 ---
 
