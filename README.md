@@ -14,15 +14,6 @@
 
 ---
 
-## 📌 Projects
-- 🧮 Rent Calculator (Python)
-- 🎮 Rock Paper Scissors Game
-- ❌⭕ Tic Tac Toe (Tkinter)
-- ⏰ Digital Clock
-- 📝 Text Editor (Tkinter)
-
----
-
 ## 📊 GitHub Stats
 ![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=arafat014-i&show_icons=true&theme=tokyonight)
 
