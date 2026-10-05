@@ -2,7 +2,7 @@
 
 🎓 Electronics & Telecommunication Engineering Student  
 💻 Passionate about C, Python, AI, ML & Problem Solving  
-🚀 Currently learning Data Structures & Algorithms  
+🚀 Currently learning Artificial Intelligence and Machine Learning 
 
 ---
 
@@ -22,4 +22,5 @@
 
 ## 🔗 Connect with me
 - Email: islamarafat377@gmail.com
-- LinkedIn: https://www.linkedin.com/in/arafat-islam-55334432b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- LinkedIn: www.linkedin.com/in/arafat-islam-23c
+
