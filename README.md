@@ -21,7 +21,10 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=arafat014-i\&show_icons=true\&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arafat014-i\&show_icons=true\&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=arafat014-i\&theme=tokyonight)
+
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=arafat014-i\&theme=tokyonight)
 
