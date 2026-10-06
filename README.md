@@ -1,26 +1,33 @@
 # Hi 👋, I'm Arafat Islam
 
-🎓 Electronics & Telecommunication Engineering Student  
-💻 Passionate about C, Python, AI, ML & Problem Solving  
-🚀 Currently learning Artificial Intelligence and Machine Learning 
+🎓 **Electronics & Telecommunication Engineering (ETE) Student**
+💻 Passionate about **Python, C, AI, ML & Problem Solving**
+🚀 Currently learning **Artificial Intelligence and Machine Learning**
 
 ---
 
 ## 🛠️ Skills
-- C Programming
-- Python
-- Data Structures & Algorithms
-- Basic GUI (Tkinter)
+
+* C Programming
+* Python
+* Data Structures & Algorithms
+* NumPy
+* Pandas
+* Basic Machine Learning
+* Basic Computer Vision
+* Tkinter / GUI Development
 
 ---
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=arafat014-i&show_icons=true&theme=tokyonight)
 
-![Streak](https://streak-stats.demolab.com?user=arafat014-i&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=arafat014-i\&show_icons=true\&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=arafat014-i\&theme=tokyonight)
+
 ---
 
-## 🔗 Connect with me
-- Email: islamarafat377@gmail.com
-- LinkedIn: www.linkedin.com/in/arafat-islam-23c
+## 🔗 Connect with Me
 
+📧 **Email:** [islamarafat377@gmail.com](mailto:islamarafat377@gmail.com)
+💼 **LinkedIn:** [Arafat Islam](https://www.linkedin.com/in/arafat-islam-23c)
